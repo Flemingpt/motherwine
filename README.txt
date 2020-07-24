@@ -1,4 +1,4 @@
-# Mother Wine v1.0
+# Mother Wine v1.0 (PROJECTO ACADÉMICO)
 
 Mother Wine é uma plataforma web que visa auxiliar os seus utilizadores na harmonização de comida com vinho e vice-versa.
 
