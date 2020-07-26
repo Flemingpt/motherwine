@@ -16,8 +16,8 @@ Aceder à plataforma através do localhost e efectuar login com os dados de aces
 
 
 ## Funcionalidades com bugs/por implementar:
-- Registo de vinhos (backend) não está funcional;
-- Sugestão de receitas (frontend) está estática; 
+- Registo de vinhos (backend);
+- Sugestão de receitas (frontend); 
 
 
 ## Contactos
