@@ -1,17 +1,14 @@
-# Mother Wine v1.0 (PROJECTO ACADÉMICO)
+#### Mother Wine (PROJECTO ACADÉMICO) #### 
 
 Mother Wine é uma plataforma web que visa auxiliar os seus utilizadores na harmonização de comida com vinho e vice-versa.
 
 ## Pré-requisitos
 
-- XAMPP
-- MySQL Workbench ou similar
+- XAMPP ou programa similar. 
 
 ## Instalação e utilização
 
 Extrair o conteúdo do repositório para xampp/htdocs/. 
-
-Carregar a base de dados motherwine.sql com o MySQL Workbench ou similar.
 
 Aceder à plataforma e efectuar login com os dados de acesso do administrador: Admin/admin. 
 
