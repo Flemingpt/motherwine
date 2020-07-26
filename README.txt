@@ -13,12 +13,9 @@ Extrair o conteúdo do repositório para xampp/htdocs/.
 Aceder à plataforma e efectuar login com os dados de acesso do administrador: Admin/admin. 
 
 
-## Funcionalidades estáticas:
+## Funcionalidades com bugs/por implementar:
 - Registo de vinhos (backend);
-- Sugestão de receitas (frontend);
-
-## Bugs:
-- Registo de receitas (backend) apresenta comportamento irregular; 
+- Sugestão de receitas (frontend) está estática; 
 
 ## Contactos
 Ricardo Ribeiro: rmp.ribeiro@sapo.pt 
