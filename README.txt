@@ -9,7 +9,7 @@ Mother Wine é uma plataforma web que visa auxiliar os seus utilizadores na harm
 
 ## Instalação e utilização
 
-Extrair o conteúdo do ficheiro motherwine.zip para xampp/htdocs/. 
+Extrair o conteúdo do repositório para xampp/htdocs/. 
 
 Carregar a base de dados motherwine.sql com o MySQL Workbench ou similar.
 
