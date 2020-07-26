@@ -1,6 +1,6 @@
 #### Mother Wine (PROJECTO ACADÉMICO) #### 
 
-Mother Wine é uma plataforma web que visa auxiliar os seus utilizadores na harmonização de comida com vinho e vice-versa.
+Mother Wine é uma plataforma web que visa auxiliar os seus utilizadores na harmonização de comida com vinho e vice-versa. Este projecto foi desenvolvido no âmbito do Curso de Técnico/a Especialista em Tecnologias e Programação de Sistemas de Informação, ministrado pelo Centro de Formação Profissional do IEFP - Évora. 
 
 
 ## Pré-requisitos
@@ -16,7 +16,7 @@ Aceder à plataforma através do localhost e efectuar login com os dados de aces
 
 
 ## Funcionalidades com bugs/por implementar:
-- Registo de vinhos (backend);
+- Registo de vinhos (backend) não está funcional;
 - Sugestão de receitas (frontend) está estática; 
 
 
