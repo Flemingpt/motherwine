@@ -5,7 +5,7 @@ Mother Wine é uma plataforma web que visa auxiliar os seus utilizadores na harm
 
 ## Pré-requisitos
 
-- XAMPP ou programa similar. 
+- XAMPP ou equivalente. 
 
 
 ## Instalação e utilização
